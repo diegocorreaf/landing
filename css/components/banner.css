@@ -1,0 +1,17 @@
+.banner {
+  padding: 200px 0;
+  background-size: cover;
+  /* para que a imagem nao distorca */
+  background-position: center;
+  /* para deixar a imagem no centro */
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+  opacity: .7;
+}
